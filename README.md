@@ -1,1 +1,2 @@
-# Collision-Bounce-off
+# collisionAlgorithm
+Algorithm to detect collision between two objects
